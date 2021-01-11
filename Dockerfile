@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM busybox
 
 RUN mkdir /app
 WORKDIR /app/
